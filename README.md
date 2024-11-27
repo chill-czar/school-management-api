@@ -1,8 +1,4 @@
-Collecting workspace information
 
-Sure, here is a `README.md` file for your repository:
-
-````markdown
 # School Management API
 
 This is a simple School Management API built with Node.js, Express, and MongoDB.
@@ -16,7 +12,7 @@ This is a simple School Management API built with Node.js, Express, and MongoDB.
 
 1. Clone the repository:
 
-```sh
+
 git clone <repository-url>
 cd school-management-api
 ```
@@ -142,7 +138,7 @@ longitude
     {
       "error": "Internal server error"
     }
-    ```
+ 
 
 ## License
 
